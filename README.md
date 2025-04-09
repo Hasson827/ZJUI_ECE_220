@@ -23,6 +23,7 @@ ZJUI_ECE_220/
 │   ├── Lec 10 Strings and Multi-dimensional Arrays.pdf
 │   ├── Lec 11 Problem Solving with Pointers and Arrays.pdf
 │   └── Lec 12&13 Recursion, recursive sorting and Recursion 
+│   └── Lec 14 File I/O in C
 ├── LICENSE
 ├── .gitattributes
 └── README.md
@@ -42,6 +43,7 @@ ZJUI_ECE_220/
 10. **Lecture 10** : 字符串处理和多维数组的使用技巧
 11. **Lecture 11** : 利用指针和数组解决实际问题的方法
 12. **Lecture 12&13** : 递归的基本原理、递归排序算法和回溯法
+13. **Lecture 14**：文件处理及输入输出
 
 ## 课程信息
 
