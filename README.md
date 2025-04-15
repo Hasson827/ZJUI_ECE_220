@@ -24,6 +24,8 @@ ZJUI_ECE_220/
 │   ├── Lec 11 Problem Solving with Pointers and Arrays.pdf
 │   └── Lec 12&13 Recursion, recursive sorting and Recursion 
 │   └── Lec 14 File I/O in C
+│   └── Lec 15 Data Structures
+│   └── Lec 16 Dynamic Memory Allocation
 ├── LICENSE
 ├── .gitattributes
 └── README.md
@@ -44,6 +46,8 @@ ZJUI_ECE_220/
 11. **Lecture 11** : 利用指针和数组解决实际问题的方法
 12. **Lecture 12&13** : 递归的基本原理、递归排序算法和回溯法
 13. **Lecture 14**：文件处理及输入输出
+14. **Lecture 15**：数据结构
+15. **Lecture 16**：动态内存分配
 
 ## 课程信息
 
