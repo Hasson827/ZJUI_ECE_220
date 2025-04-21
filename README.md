@@ -8,7 +8,7 @@
 
 该仓库按照讲座(Lecture)顺序组织，所有讲座笔记统一存放在[Lecture_notes](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)文件夹中：
 
-```
+```plaintext
 ZJUI_ECE_220/
 ├── Lecture_notes/
 │   ├── Lec 01 InputOutput of LC-3.pdf
@@ -22,10 +22,11 @@ ZJUI_ECE_220/
 │   ├── Lec 09 Pointers and Arrays.pdf
 │   ├── Lec 10 Strings and Multi-dimensional Arrays.pdf
 │   ├── Lec 11 Problem Solving with Pointers and Arrays.pdf
-│   └── Lec 12&13 Recursion, recursive sorting and Recursion 
+│   └── Lec 12&13 Recursion, recursive sorting and Recursion
 │   └── Lec 14 File I/O in C
 │   └── Lec 15 Data Structures
 │   └── Lec 16 Dynamic Memory Allocation
+│   └── Lec 17 Linked List
 ├── LICENSE
 ├── .gitattributes
 └── README.md
@@ -48,6 +49,7 @@ ZJUI_ECE_220/
 13. **Lecture 14**：文件处理及输入输出
 14. **Lecture 15**：数据结构
 15. **Lecture 16**：动态内存分配
+16. **Lecture 17**：链表
 
 ## 课程信息
 
