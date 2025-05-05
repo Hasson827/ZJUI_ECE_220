@@ -6,11 +6,31 @@
 
 ## 仓库结构
 
-该仓库按照讲座(Lecture)顺序组织，所有讲座笔记统一存放在[Lecture_notes](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)文件夹中：
+该仓库按照讲座(Lecture)顺序组织
 
 ```plaintext
 ZJUI_ECE_220/
-├── Lecture_notes/
+├── Lecture_notes_markdown_version/
+│   ├── Lec 01 InputOutput of LC-3
+│   ├── Lec 02 Repeated Code TRAPs and Subroutines
+│   ├── Lec 03 Stack Data Structure and Stack Operations
+│   ├── Lec 04 Programming with Stack
+│   ├── Lec 05 Introduction to C
+│   ├── Lec 06 Control Structures
+│   ├── Lec 07 Functions in C
+│   ├── Lec 08 Run-time Stack
+│   ├── Lec 09 Pointers and Arrays
+│   ├── Lec 10 Strings and Multi-dimensional Arrays
+│   ├── Lec 11 Problem Solving with Pointers and Arrays
+│   └── Lec 12&13 Recursion, recursive sorting and Recursion
+│   └── Lec 14 File I/O in C
+│   └── Lec 15 Data Structures
+│   └── Lec 16 Dynamic Memory Allocation
+│   └── Lec 17 Linked List
+│   └── Lec 18 Problem solving with linked lists
+│   └── Lec 19 Linked data structures & C to LC3
+│   └── Lec 20 Introduction to C++
+├── Lecture_notes_PDF_version/
 │   ├── Lec 01 InputOutput of LC-3.pdf
 │   ├── Lec 02 Repeated Code TRAPs and Subroutines.pdf
 │   ├── Lec 03 Stack Data Structure and Stack Operations.pdf
@@ -22,11 +42,14 @@ ZJUI_ECE_220/
 │   ├── Lec 09 Pointers and Arrays.pdf
 │   ├── Lec 10 Strings and Multi-dimensional Arrays.pdf
 │   ├── Lec 11 Problem Solving with Pointers and Arrays.pdf
-│   └── Lec 12&13 Recursion, recursive sorting and Recursion
-│   └── Lec 14 File I/O in C
-│   └── Lec 15 Data Structures
-│   └── Lec 16 Dynamic Memory Allocation
-│   └── Lec 17 Linked List
+│   └── Lec 12&13 Recursion, recursive sorting and Recursion.pdf
+│   └── Lec 14 File I/O in C.pdf
+│   └── Lec 15 Data Structures.pdf
+│   └── Lec 16 Dynamic Memory Allocation.pdf
+│   └── Lec 17 Linked List.pdf
+│   └── Lec 18 Problem solving with linked lists.pdf
+│   └── Lec 19 Linked data structures & C to LC3.pdf
+│   └── Lec 20 Introduction to C++.pdf
 ├── LICENSE
 ├── .gitattributes
 └── README.md
@@ -50,6 +73,9 @@ ZJUI_ECE_220/
 14. **Lecture 15**：数据结构
 15. **Lecture 16**：动态内存分配
 16. **Lecture 17**：链表
+17. **Lecture 18**：链表问题解决
+18. **Lecture 19**：链表的LC3转换
+19. **Lecture 20**：C++简介
 
 ## 课程信息
 
@@ -71,8 +97,8 @@ ZJUI_ECE_220/
 
 ## 使用指南
 
-1. 通过目录直接访问对应讲座的PDF文件
-2. 笔记采用PDF格式，建议使用Adobe Acrobat Reader或其他PDF阅读器打开
+1. 通过目录直接访问对应讲座的PDF文件或markdown文件
+2. PDF格式笔记建议使用Adobe Acrobat Reader或其他PDF阅读器打开，markdown格式笔记建议使用vscode或Typora打开
 3. 结合课程教材和实验内容一起学习效果更佳
 4. 可以通过Issue功能提出问题或建议改进
 
